@@ -8,7 +8,7 @@ The docker_run Task
 
 Girder Worker provides a built-in task that can be used to run docker containers.
 Girder Worker makes it easy to work on data held in girder from within a
-docker containers.
+docker container.
 
 Container arguments
 -------------------
